@@ -5,9 +5,15 @@
   * Outline Elements
 */
 
-* {
-    outline: 1px dotted black;
+/* External styling from: https://codepen.io/manikoth/pen/NNNBYe.css
+ */
+/* Doodle Stage */
+#stage {
+  background: #ccc;
+  height: 300px;
+  width: 600px;
 }
+
 
 body {
   background: url(../img/retro-cartoon-amazed-frightened-cartoon-character-vector-9168005.jpg);
