@@ -12,5 +12,34 @@
   background: #F5C341;
   height: 250px;
   width: 1000px;
+  overflow: hidden;
 }
 
+#content {
+  margin-top: auto;
+  transform: scale(.90);
+}
+
+#nonmoving {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#arm {
+transform: scale(.09);
+margin-top: -615px;
+margin-left: -460px;
+}
+
+#head {
+transform: scale(.087);
+margin-top: -1382px;
+margin-left: -475px;
+}
+
+
+#lips {
+  transform: scale(.025);
+  margin-top: -1325px;
+  margin-left: -175px;
+}
