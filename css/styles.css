@@ -43,3 +43,21 @@ margin-left: -475px;
   margin-top: -1325px;
   margin-left: -175px;
 }
+
+.heart {
+  transform: scale(.035);
+  margin-top: -1013px;
+  margin-left: -105px;
+  }
+  
+  .blush {
+  transform: scale(.057);
+  margin-top: -530px;
+  margin-left: -133px;
+  }
+  
+  #path {
+   transform: scale(3);
+  margin-top: -530px;
+  margin-left: -133px;
+  }
