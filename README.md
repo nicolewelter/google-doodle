@@ -5,5 +5,6 @@ The theme for my Google Doodle is 1920’s cartoons. By gathering inspiration fr
 [Link to Figma Collage](https://www.figma.com/file/JS0IxeEpnBVnDJfCwKoUPe/Google-Doodle?node-id=0%3A1)
 
 ### Resources
-[Link to icons] (https://codepen.io/pen/)
-[Link to Google Fonts: Luckiest Guy] (https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap)
+[Link to icons](https://codepen.io/pen/)
+[Link to Google Fonts: Luckiest Guy](https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap)
+[Link to Codepen](https://codepen.io/nicolewelter/pen/rNVyMPV?editors=0010)
